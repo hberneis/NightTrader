@@ -8,11 +8,21 @@ TagManager:
   - MoniterMenu
   - Mail
   - Trade
+  - Delivery
+  - Sushi
+  - Sandwich
+  - Burger
+  - Coffee
+  - Donut
+  - Banana
+  - RaHome
+  - RaMarkets
+  - RaMyPortfolio
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Food
   - Water
   - UI
   - 
